@@ -12,7 +12,7 @@ export const CounterApp = () => {
 
     return (
         <div>
-            <h2>Counter: {count}</h2>
+            <h3>Counter: {count}</h3>
             <button onClick={increment}>Increment</button>
             <button onClick={decrement}>Decrement</button>
         </div>
