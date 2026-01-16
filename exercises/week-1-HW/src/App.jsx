@@ -1,4 +1,4 @@
-import { useState } from 'react';
+
 import { Greeting } from './components/Basic/Greeting';
 import { ProfileCard } from './components/Basic/ProfileCard';
 import { CompanyLogo } from './components/Basic/CompanyLogo';
